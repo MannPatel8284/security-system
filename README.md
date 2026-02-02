@@ -2,10 +2,7 @@
 
 > A real-time motion detection system that monitors your webcam and sends email alerts when motion is detected.
 
-[![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://www.python.org/)
-[![OpenCV](https://img.shields.io/badge/OpenCV-4.8+-red.svg)](https://opencv.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Status](https://img.shields.io/badge/Status-Active-brightgreen.svg)]()
+
 
 ---
 
@@ -279,19 +276,7 @@ launchctl load ~/Library/LaunchAgents/com.motion.detector.plist
 - 📹 **Parking Lot Monitoring** - Detect vehicles and people
 - 🏗️ **Construction Sites** - Monitor activity in restricted areas
 
----
 
-## 🤝 Contributing
-
-Contributions are welcome! To contribute:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
----
 
 ## 📝 License
 
@@ -302,36 +287,16 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🙋 Support
 
 - 📖 Check [README.md](README.md) for detailed documentation
-- 📚 See [VS_CODE_SETUP.md](VS_CODE_SETUP.md) for VS Code setup instructions
-- 🔧 See [HOW_TO_CREATE_ENV_FILE.md](HOW_TO_CREATE_ENV_FILE.md) for `.env` file creation
-- 🐛 Open an [Issue](https://github.com/yourusername/motion-detection-security/issues) for bugs
-- 💡 Start a [Discussion](https://github.com/yourusername/motion-detection-security/discussions) for ideas
 
----
 
-## 📧 Contact
 
-For questions or suggestions, feel free to reach out!
 
----
+
+
 
 ## ⭐ Show Your Support
 
 If you found this project helpful, please consider giving it a star! ⭐
 
----
-
-## 🎯 Roadmap
-
-- [ ] Add database support for motion history
-- [ ] Web dashboard for remote monitoring
-- [ ] Slack integration for notifications
-- [ ] Discord bot integration
-- [ ] Cloud storage for screenshots
-- [ ] Mobile app for alerts
-- [ ] Customizable detection zones
-- [ ] Human detection using ML
-
----
-
+]
 **Made with ❤️ for security-conscious developers**# security-system
